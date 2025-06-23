@@ -1,7 +1,6 @@
 Nhập Môn Xử Lý Ảnh Số - Lab 2
 Biến Đổi Cường Độ Ảnh Grayscale & Phân Tích Bit-Plane
-Sinh viên thực hiện: Example MSSV: Example
-Môn học: Nhập môn Xử lý ảnh số
+Sinh v
 Giảng viên: Đỗ Hữu Quân
 
 Giới thiệu
